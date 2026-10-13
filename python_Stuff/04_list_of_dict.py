@@ -4,4 +4,4 @@ products = [
     {"Name" : "Green Tea", "Price": 140.5, "Quantity": 15}
 ]
 
-print(products[1][""])
+print(products[1]["Price"])

@@ -1,3 +1,17 @@
 {
-    "python-envs.defaultEnvManager": "ms-python.python:system"
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python.analysis.autoImportCompletions": false,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    },
+    "editor.suggestOnTriggerCharacters": true,
+    "editor.inlineSuggest.enabled": true,
+    "editor.tabCompletion": "on",
+    "python.testing.pytestArgs": [
+        "UnitTesting"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
 }
